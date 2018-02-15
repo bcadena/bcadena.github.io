@@ -18,3 +18,8 @@ about us individually look at the information below.
 and minors in Business and Cybersecurity. If you have any questions email me.</p>
 
 [Email me](mailto:jwoo6569@tamu.edu)
+
+<h3>Ben Cadena</h3>
+<p>Here at Texas A&M University, I am a Technology Management major with a minor in Business. I am also currently a senior with expected graduation date set at December 2018. If you have any questions, email me.</p>
+
+[Email me](mailto:bcadena@tamu.edu)
