@@ -10,4 +10,6 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 ---
 GROUP MEMBERS:
 
-Ben Cadena - Texas A&M University, Major: Technology Management 
+Ben Cadena - Texas A&M University, Major: Technology Management
+
+Michael Maddux - Texas A&M University, Major: Technology Management
