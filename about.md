@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is for TCMG476 Project 2. 
 
 ### More Information
 
