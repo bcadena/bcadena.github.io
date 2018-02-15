@@ -28,3 +28,9 @@ and minors in Business and Cybersecurity. If you have any questions email me.</p
 <p>Currently a Technology Management major with a minor in Business in Texas A&M, I am expected to graduate December 2018. If one has any questions, email me.</p>
 
 [Email me](mailto:rlc-a8m@tamu.edu)
+
+
+[Email me](mailto:joerawlinson@tamu.edu)
+
+<h3>Joseph Rawlinson</h3>
+<p>I am a Technology Management Major at Texas A&M University and I am expected to graduate August 2018. If you have any questions please feel free to email me.</p>
