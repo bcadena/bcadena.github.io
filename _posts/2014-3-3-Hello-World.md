@@ -7,8 +7,8 @@ Below will be our group member names and some information about us. This will sh
 ![_config.yml]({{ site.baseurl }}/images/tech_lab.jpg)
 
 <p>The easiest way to make learn more about Technology Management is to visit the official website</p> [Bachelor of Science: Technology Management](http://eahr.tamu.edu/degrees-and-programs/undergraduate-degree-programs/technology-management).
----
-GROUP MEMBERS:
+<p>---</p>
+<p>GROUP MEMBERS:</p>
 
 Ben Cadena - Texas A&M University, Major: Technology Management
 
