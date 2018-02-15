@@ -23,3 +23,8 @@ and minors in Business and Cybersecurity. If you have any questions email me.</p
 <p>Here at Texas A&M University, I am a Technology Management major with a minor in Business. I am also currently a senior with expected graduation date set at December 2018. If you have any questions, email me.</p>
 
 [Email me](mailto:bcadena@tamu.edu)
+
+<h3>Randy Chapa</h3>
+<p>Currently a Technology Management major with a minor in Business in Texas A&M, I am expected to graduate December 2018. If one has any questions, email me.</p>
+
+[Email me](mailto:rlc-a8m@tamu.edu)
