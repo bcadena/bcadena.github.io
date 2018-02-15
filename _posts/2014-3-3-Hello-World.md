@@ -17,3 +17,5 @@ Michael Maddux - Texas A&M University, Major: Technology Management
 Jun Woo - Texas A&M University, Major: Technology Management
 
 Randy Chapa - Texas A&M University, Major: Technology Management
+
+Joseph Rawlinson - Texas A&M University, Major: Technology Management, Minors: Buisness, Cyber Security
