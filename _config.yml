@@ -3,7 +3,7 @@
 #
 theme: Cayman
 # Name of your site (displayed in the header)
-name: Ben Cadena
+name: DevOps Project Two
 
 # Short bio or description (displayed in the header)
 description: Blog or something
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: bcadena/
   instagram:
   linkedin:
   pinterest:
