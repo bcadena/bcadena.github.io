@@ -15,3 +15,5 @@ Ben Cadena - Texas A&M University, Major: Technology Management
 Michael Maddux - Texas A&M University, Major: Technology Management
 
 Jun Woo - Texas A&M University, Major: Technology Management
+
+Randy Chapa - Texas A&M University, Major: Technology Management
